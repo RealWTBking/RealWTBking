@@ -15,7 +15,7 @@ Primarily developing my individual skills and working on personal projects, such
 
 ## 📈 Stats
 
-[![Modrinth Stats](https://modrinth-embeds.creeperkatze.de/user/WTBking)](https://modrinth.com/user/WTBking)
+[![Photon Modrinth Stats](https://modfolio.creeperkatze.dev/modrinth/project/phtn?showVersions=false&showSummary=true)](https://modrinth.com/modpack/phtn)
 [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RealWTBking&show_icons=true&theme=tokyonight)](https://github.com/RealWTBking)
 
 
